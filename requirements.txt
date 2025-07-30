@@ -6,3 +6,5 @@ python-dotenv
 pytesseract
 pdf2image
 Pillow
+crewai
+langchain
